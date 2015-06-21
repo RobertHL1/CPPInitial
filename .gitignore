@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+#NetBeans stuff
+*.dep.inc
+build/
+dist/
+nbproject/
